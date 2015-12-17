@@ -1,2 +1,0 @@
-website tools : javascript jQuery html css ajax
-json
