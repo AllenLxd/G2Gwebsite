@@ -171,7 +171,7 @@
 }
 #u14 {
   position:absolute;
-  left:602px;
+  left:615px;
   top:99px;
   width:109px;
   height:50px;
@@ -1496,5 +1496,28 @@
   left:2px;
   top:14px;
   width:174px;
+  word-wrap:break-word;
+}
+#u122 {
+  position:absolute;
+  left:729px;
+  top:99px;
+  width:109px;
+  height:50px;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u122_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:50px;
+}
+#u123 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:105px;
   word-wrap:break-word;
 }

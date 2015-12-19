@@ -149,8 +149,8 @@
 }
 #u12 {
   position:absolute;
-  left:602px;
-  top:99px;
+  left:728px;
+  top:98px;
   width:109px;
   height:50px;
   font-size:18px;
@@ -962,5 +962,28 @@
   top:14px;
   width:120px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u82 {
+  position:absolute;
+  left:615px;
+  top:99px;
+  width:109px;
+  height:50px;
+  font-size:18px;
+  color:#FFFFFF;
+}
+#u82_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:50px;
+}
+#u83 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:105px;
   word-wrap:break-word;
 }
